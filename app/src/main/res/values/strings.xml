@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Submission1</string>
+    <string-array name="list_nama">
+        <item>Dilan 1990</item>
+        <item>Rambo First Blood</item>
+        <item>windtalkers</item>
+        <item>white house</item>
+    </string-array>
+    <string-array name="list_desc">
+        <item>Dilan, karakter utama dari novel Pidi Baiq yang berjudul Dilan 1990 (2014), Dilan: Dia adalah Dilanku Tahun 1991 (2015), dan Milea: Suara dari Dilan (2016), tengah digandrungi kaum hawa
+            karena rayuan khasnya yang bisa bikin senyum-senyum sendiri.</item>
+        <item>Sangat sedikit tentara yang bertahan dalam perang Vietnam itu. Saat mencari temannya di salah satu kota kecil Hope, Washington,
+            dia diperlakukan tidak menyenangkan oleh para polisi di daerah tersebut.</item>
+        <item>Film Windtalkers bercerita tentang Joe Enders (Nicolas Cage), seorang marinir yang mendapat tugas untuk melindungi
+            Ben Yahzee (Adam Beach) dan Charlie Whitehorse (Roger Willie)</item>
+        <item>Channing Tatum kini berperan menjadi pasukan pengamanan pribadi Presiden AS alias Paspampres.
+            Di film berjudul White House Down ini</item>
+    </string-array>
+    <string-array name="list_gambar">
+        <item>@drawable/dilan</item>
+        <item>@drawable/rambo</item>
+        <item>@drawable/windtalkers</item>
+        <item>@drawable/whitehouse</item>
+    </string-array>
+</resources>
